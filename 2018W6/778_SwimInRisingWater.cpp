@@ -1,5 +1,6 @@
 //10 Feb 2018
-//To be updated
+//A very traditional Union find model
+//You should sort first then step by step enlarge the area
 const int MAXN = 50;
 int pre[MAXN*MAXN];
 int find(int x) //find the root of x
