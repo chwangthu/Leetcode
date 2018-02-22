@@ -1,5 +1,5 @@
 # Leetcode
-1 Two Sum<br/>
+[1 Two Sum][1]<br/>
 2 Add Two Number<br/>
 3 Longest Substring Without Repeating Characters<br/>
 4 Median Of Two Sorted Array<br/>
@@ -21,6 +21,6 @@
 782 Transform to ChessBorad 2018W7<br/>
 783 Minimum Distance Between BST Nodes 2018W7<br/>
 
-
+[1]:https://www.cnblogs.com/tocy/p/markdown-footnote_link.html "1 Two Sum"
 
 
