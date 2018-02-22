@@ -22,10 +22,9 @@
 783 Minimum Distance Between BST Nodes<br/>
 784 Letter Case Permutation<br/>
 785 Is Graph Bipartite<br/>
-786 Kth Smallest Prime Fraction 2018W8<br/>
-787 Cheapest Flights Within K Stops 2018W8<br/>
+786 Kth Smallest Prime Fraction<br/>
+787 Cheapest Flights Within K Stops<br/>
 
 [1]:https://github.com/chwangthu/Leetcode/blob/dev/Earlier/1_TwoSum.cpp "1 Two Sum"
-
 
 
