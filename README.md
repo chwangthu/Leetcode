@@ -7,6 +7,8 @@
 [8 String to Integer][8]<br/>
 [10 Regular Expression Matching][10]<br/>
 [11 Container with Most Water][11]<br/>
+[12 Integer to Roman][12]<br/>
+[13 Roman to Integer][13]<br/>
 [94 Binary Tree Inorder Tranversal][94]<br/>
 [98 Validate Binary Search Tree][98]<br/>
 [204 Count Primes][204]<br/>
@@ -24,6 +26,13 @@
 [785 Is Graph Bipartite][785]<br/>
 [786 Kth Smallest Prime Fraction][786]<br/>
 [787 Cheapest Flights Within K Stops][787]<br/>
+[788 Rotated Digits][788]<br/>
+[789 Escape the Ghosts][789]<br/>
+[790 Domino and Tromino Tiling][790]<br/>
+[791 Custom Sort String][791]<br/>
+[792 Number of Matching Subsequences][792]<br/>
+[793 Preimage Size of Factorial Zeroes Function][793]<br/>
+[794 Valid Tic-Tac-Toe State][794]<br/>
 
 [1]:https://github.com/chwangthu/Leetcode/blob/dev/Earlier/1_TwoSum.cpp "1 Two Sum"
 [2]:https://github.com/chwangthu/Leetcode/blob/dev/Earlier/2_AddTwoNumbers.cpp
