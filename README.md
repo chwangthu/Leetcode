@@ -38,6 +38,8 @@
 [2]:https://github.com/chwangthu/Leetcode/blob/dev/Earlier/2_AddTwoNumbers.cpp
 [3]:https://github.com/chwangthu/Leetcode/blob/dev/Earlier/3_LongestSubstringWithoutRepeatingCharacters.cpp
 [4]:https://github.com/chwangthu/Leetcode/blob/dev/Earlier/4_MedianOfTwoSortedArrays.cpp
+[12]:https://github.com/chwangthu/Leetcode/blob/master/2018W9/13_IntegerToRoman.cpp
+[13]:https://github.com/chwangthu/Leetcode/blob/master/2018W9/13_RomanToInteger.cpp
 [7]:https://github.com/chwangthu/Leetcode/blob/dev/Earlier/7_ReverseInteger.cpp
 [8]:https://github.com/chwangthu/Leetcode/blob/dev/Earlier/8_StringToInteger.cpp
 [10]:https://github.com/chwangthu/Leetcode/blob/dev/Earlier/10_RegularExpressionMatching.cpp "10 Regular Expression Matching"
@@ -59,5 +61,11 @@
 [785]:https://github.com/chwangthu/Leetcode/blob/dev/2018W8/785_IsGraphBipartite.cpp
 [786]:https://github.com/chwangthu/Leetcode/blob/dev/2018W8/786_K-thSmallestPrimeFraction.cpp
 [787]:https://github.com/chwangthu/Leetcode/blob/dev/2018W8/787_CheapestFlightsWithinKStops.cpp
-
+[788]:https://github.com/chwangthu/Leetcode/blob/master/2018W8/788_RotatedDigits.cpp
+[789]:https://github.com/chwangthu/Leetcode/blob/master/2018W9/789_EscapeTheGhosts.cpp
+[790]:https://github.com/chwangthu/Leetcode/blob/master/2018W9/790_DominoAndTrominoTiling.cpp
+[791]:https://github.com/chwangthu/Leetcode/blob/master/2018W9/791_Custom%20Sort%20String.cpp
+[792]:https://github.com/chwangthu/Leetcode/blob/master/2018W9/792_NumberofMatchingSubsequences.cpp
+[793]:https://github.com/chwangthu/Leetcode/blob/master/2018W9/793_PreimageSizeofFactorialZeroesFunction.cpp
+[794]:https://github.com/chwangthu/Leetcode/blob/master/2018W9/794_ValidTic-Tac-ToeState.cpp
 
