@@ -33,6 +33,20 @@
 [792 Number of Matching Subsequences][792]<br/>
 [793 Preimage Size of Factorial Zeroes Function][793]<br/>
 [794 Valid Tic-Tac-Toe State][794]<br/>
+[795 Number of Subarrays with bounded Maximum][795]<br/>
+[796 Rotate String][796]<br/>
+[797 All Paths From Source to Target][797]<br/>
+[798 Smallest Rotation With Highest Score][798]<br/>
+[799 ChampagneTower][799]<br/>
+[800 Similar RGB Color][800]<br/>
+[801 Miminum Swap to Make Sequence Increasing][801]<br/>
+[804 Unique Morse Code Words][804]<br/>
+[805 Split Array with Same Average][805]<br/>
+[806 Number of Lines to Write String][806]<br/>
+[807 Max Increase set of Keep City Line][807]<br/>
+[809 Expressive Words][809]<br/>
+[811 Subdomain Visit Count][809]<br/>
+
 
 [1]:https://github.com/chwangthu/Leetcode/blob/dev/Earlier/1_TwoSum.cpp "1 Two Sum"
 [2]:https://github.com/chwangthu/Leetcode/blob/dev/Earlier/2_AddTwoNumbers.cpp
@@ -68,4 +82,14 @@
 [792]:https://github.com/chwangthu/Leetcode/blob/master/2018W9/792_NumberofMatchingSubsequences.cpp
 [793]:https://github.com/chwangthu/Leetcode/blob/master/2018W9/793_PreimageSizeofFactorialZeroesFunction.cpp
 [794]:https://github.com/chwangthu/Leetcode/blob/master/2018W9/794_ValidTic-Tac-ToeState.cpp
-
+[795]:https://github.com/chwangthu/Leetcode/blob/dev/2018W10/795_NumberofSubarrayswithBoundedMaximum.cpp
+[796]:https://github.com/chwangthu/Leetcode/blob/dev/2018W10/796_RotateString.cpp
+[797]:https://github.com/chwangthu/Leetcode/blob/dev/2018W10/797_AllPathsFromSourcetoTarget.cpp
+[798]:https://github.com/chwangthu/Leetcode/blob/dev/2018W10/798_SmallestRotationWithHighestScore.cpp
+[799]:https://github.com/chwangthu/Leetcode/blob/dev/2018W10/799_ChampagneTower.cpp
+[800]:https://github.com/chwangthu/Leetcode/blob/dev/2018W11/800_SimilarRGB%20Color.cpp
+[801]:https://github.com/chwangthu/Leetcode/blob/dev/2018W11/801_MinimunSwapsToMakeSequencesIncreasing.cpp
+[804]:https://github.com/chwangthu/Leetcode/blob/dev/2018W11/804_UniqueMorseCodeWords.cpp
+[805]:https://github.com/chwangthu/Leetcode/blob/dev/2018W11/805_SplitArrayWithSameAverage.cpp
+[806]:https://github.com/chwangthu/Leetcode/blob/dev/2018W11/806_NumberofLinesToWriteString.cpp
+[807]:https://github.com/chwangthu/Leetcode/blob/dev/2018W11/807_MaxIncreasetoKeepCitySkyline.cpp
